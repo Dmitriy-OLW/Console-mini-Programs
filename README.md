@@ -1,4 +1,4 @@
-# Console-mini-Programs-C-or-C-
+# Console-mini-Programs_С#_or_C++
 My mini-programs that I wrote while learning C# and C++.
 
 My mini-programs that I wrote while learning C# and C++. <br>

@@ -7,13 +7,13 @@ Perhaps they will be useful to someone.<br>
 
 //------------------------------------------------------------------------------------------------------------
 
-The following programs are presented here:
-	- Graviti_Finder - is a program for finding the acceleration of free fall of any planet, according to the formula - C#;
-	- Variants_Sortirovok - Sorting options in C++;
-	- Semafor_mk1 - A joke with a simaphore in C#, A stupid program;
-	- Code_Cezary_MK5 - Caesar's code in C#, using the dictionary;
-	- Deligat_glav_MK2 - Entertainment with Deligates on C#;
-	- Rock_Paper_Scissors - Rock, scissors, paper in C#.
+The following programs are presented here: <br>
+	- Graviti_Finder - is a program for finding the acceleration of free fall of any planet, according to the formula - C#; <br>
+	- Variants_Sortirovok - Sorting options in C++; <br>
+	- Semafor_mk1 - A joke with a simaphore in C#, A stupid program; <br>
+	- Code_Cezary_MK5 - Caesar's code in C#, using the dictionary; <br>
+	- Deligat_glav_MK2 - Entertainment with Deligates on C#; <br>
+	- Rock_Paper_Scissors - Rock, scissors, paper in C#. <br>
 
 //------------------------------------------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ The following programs are presented here:
 
 //------------------------------------------------------------------------------------------------------------
 
-Здесь представленны следующие прграммы:
-	- Graviti_Finder - Программа нахождения ускорения свободного падения любой планеты, по формуле - С#;
-	- Variants_Sortirovok - Варианты сортировок на C++;
-	- Semafor_mk1 - Прикол с симафором на С#, Глупая программа;
-	- Code_Cezary_MK5 - Код Цезаря на C#, с использованием словаря;
-	- Deligat_glav_MK2 - Развлечения с Делигатами на С#;
-	- Rock_Paper_Scissors - Камень, ножницы, бумага на C#.
+Здесь представленны следующие прграммы: <br>
+	- Graviti_Finder - Программа нахождения ускорения свободного падения любой планеты, по формуле - С#; <br>
+	- Variants_Sortirovok - Варианты сортировок на C++; <br>
+	- Semafor_mk1 - Прикол с симафором на С#, Глупая программа; <br>
+	- Code_Cezary_MK5 - Код Цезаря на C#, с использованием словаря; <br>
+	- Deligat_glav_MK2 - Развлечения с Делигатами на С#; <br>
+	- Rock_Paper_Scissors - Камень, ножницы, бумага на C#. <br>
 
